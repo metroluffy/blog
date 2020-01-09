@@ -166,3 +166,12 @@ body {
   border: 10px solid #dd4040;
   border-radius: 4px 4px 20px 20px;
 }
+.beian-info {
+  font-size: 12px;
+  position: absolute;
+  bottom: 24px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 99;
+  opacity: 0.4;
+}
